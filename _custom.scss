@@ -1,0 +1,89 @@
+// Here you can add other styles
+.eye-button-margin-right {
+    margin-right: 10px;
+}
+.list-group{
+  width:400px;
+}
+.eye-delete {
+  color: #FF0000;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.eye-error-red {
+  color: #ff0000;
+  font-size: 0.85em;
+}
+.header-login {
+  color: #ff0000;
+  text-align:center
+}
+.eye-block-text span {
+  display: block;
+}
+.invoice-toathuoc{
+  font-size:0.90em;
+}
+.toathuoc-header-left span {
+  margin-left: 60px;
+}
+.invoice-header {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.table-toa-thuoc,
+.table-hoa-don-toa-thuoc {
+  width: 100%;
+  margin-top: 10px;
+}
+.table-toa-thuoc > tbody > tr > td {
+  border: 1px dashed #d8dbe0;
+  padding: 5px;
+}
+.table-don-kinh > thead > tr > th,
+.table-don-kinh > tbody > tr > td {
+  border: 1px solid #d8dbe0;
+  padding: 5px;
+  width: 10%;
+}
+.table-hoa-don-toa-thuoc > tbody > tr > td,
+.table-hoa-don-toa-thuoc > thead > tr > th {
+  border: 1px solid #d8dbe0;
+  padding: 5px;
+}
+.w-5 {
+  width: 5% !important;
+}
+.w-10{
+  width: 10%!important;
+}
+.w-40 {
+  width: 40% !important;
+}
+.footer-toa-thuoc,
+.margin-top-20{
+  margin-top: 20px;
+}
+.chan-doan-mat{
+  margin-left: 15px;
+}
+.button-action-in-table button{
+  margin-bottom: 5px;
+  width: 90px;
+}
+.mark-text-primary{
+  display: none!important;
+}
+.image-action {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.show-alert-action {
+  position: fixed;
+  z-index: 9999;
+  right: 10px;
+  top: 10px;
+}
